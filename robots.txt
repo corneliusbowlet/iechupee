@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aehoiphein.philippeassis.com/sitemap.xml
